@@ -5,7 +5,7 @@ An easy example of using dynamic components in Angular.
 
 ## ⚡️ StackBlitz
 
-Take a look at ⚡️StackBlitz: [Here you can check this code](https://stackblitz.com/edit/angular-menu-dynamic-components)
+Take a look at ⚡️StackBlitz: [Here you can check this code](https://stackblitz.com/edit/angular-context-menu-dynamic-components)
 
 
 ## ⚠️ The reason
