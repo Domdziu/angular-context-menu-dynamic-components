@@ -1,0 +1,16 @@
+<table class="my_table">
+	<tr>
+		<th>Column 1</th>
+		<th>Column 2</th>
+		<th>Column 3</th>
+		<th></th>
+	</tr>
+	<tr *ngFor="let item of [].constructor(1000); let i = index">
+		<td>Test 1 Row {{i}}</td>
+		<td>Test 1 Row {{i}}</td>
+		<td>Test 1 Row {{i}}</td>
+		<td><button id="{{ i }}" (click)="createMenuComponent(i)">Action</button></td>
+	</tr>
+</table>
+
+<div #container></div>
